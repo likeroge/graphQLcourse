@@ -1,1 +1,1 @@
-## GraphQl Course
+## GraphQL Course
